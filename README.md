@@ -4,13 +4,11 @@
 
 <div align="center">
 
-<a href="https://gh.crafter.run/?u=nareshpayani">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://gh.crafter.run/nareshpayani?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/nareshpayani?theme=light">
-    <img alt="Naresh Payani — ASCII profile card" src="https://gh.crafter.run/nareshpayani?theme=dark" width="100%">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Naresh Payani — ASCII profile card" src="dark_mode.svg" width="100%" />
+</picture>
 
 <a href="https://www.nareshpayani.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=UI+Architect+%C2%B7+12%2B+years+building+for+the+web;React+%2B+TypeScript+%2B+Micro+Frontends;Design+Systems+%E2%86%92+Atomic+%E2%86%92+Accessible;Shipping+faster+with+Claude+Code+agents+%F0%9F%A4%96" alt="typing intro">
@@ -27,7 +25,7 @@
 
 ---
 
-### `~$ whoami`
+## 👨‍💻 About Me
 
 ```yaml
 name:      Naresh Payani
@@ -45,7 +43,7 @@ motto:     "Architect for scale, design for humans, automate the rest."
 
 ---
 
-### `~$ cat now.md`
+## 🚀 What I'm Doing Now
 
 - 🏗️ **Architecting the Harmonix platform:** React, TypeScript, and Micro Frontends, with engineering standards that scale across teams.
 - 🤖 **Running autonomous AI agents with Claude Code** for architecture exploration, feature work, refactoring, debugging, testing, docs, and code review.
@@ -55,7 +53,7 @@ motto:     "Architect for scale, design for humans, automate the rest."
 
 ---
 
-### `~$ git log --oneline career`
+## 💼 Career Journey
 
 ```diff
 + 2025 → now   UI Architect          @ Eximietas Design   Harmonix · MFE · Design Systems · Claude Code agents
@@ -68,7 +66,7 @@ motto:     "Architect for scale, design for humans, automate the rest."
 
 ---
 
-### `~$ ls ./stack`
+## 🧰 Tech Stack
 
 <table>
 <tr><td><b>⚛️ Frontend</b></td><td>
@@ -115,7 +113,7 @@ motto:     "Architect for scale, design for humans, automate the rest."
 
 ---
 
-### `~$ ./highlights --top 3`
+## 🏆 Highlights
 
 | | Project | What I did |
 |---|---|---|
@@ -125,12 +123,12 @@ motto:     "Architect for scale, design for humans, automate the rest."
 
 ---
 
-### `~$ gh stats --me`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nareshpayani&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshpayani&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
+<img height="180" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=nareshpayani&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
@@ -144,7 +142,7 @@ motto:     "Architect for scale, design for humans, automate the rest."
 
 ---
 
-### `~$ ping naresh`
+## 📫 Let's Connect
 
 <div align="center">
 
